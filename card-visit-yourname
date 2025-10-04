@@ -1,9 +1,9 @@
 
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
-<head
+<head>
   <meta charset="UTF-8" />
-  <title>عنوان صفحه</title>
+  <title>معرفی نامه ی من</title>
 </head>
 <body>
   <nav>
@@ -17,4 +17,3 @@
   <img src="images/example.jpg" alt="توضیح تصویر" />
 </body>
 </html>
-https://github.com/username/card-visit-yourname
